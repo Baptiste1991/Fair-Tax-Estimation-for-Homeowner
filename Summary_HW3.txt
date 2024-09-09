@@ -1,0 +1,8 @@
+Summary 
+
+
+Current project aimed to develop a machine learning-based tool for fair property tax estimation, addressing issues such as inconsistencies and perceived unfairness in property tax assessments. By focusing on key features like property characteristics and location, classification and regression methodologies were employed to predict and categorize property taxes accurately.
+
+The methodology involved preprocessing data, applying Naive Bayes and KNN classifiers for tax categorization, and using Linear Regression and KNN Regression for precise tax amount predictions. The results showed that the Optimized Gaussian Naive Bayes model achieved high classification accuracy, while Linear Regression provided more accurate tax predictions compared to KNN.
+
+This tool addresses the problems of tax discrepancies and lack of transparency by offering a clear, data-driven estimation approach, thereby improving fairness and trust in the property tax system.
